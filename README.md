@@ -2,7 +2,7 @@
  
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"> Hi, I’m Pablo Rivelli
  
-<img width="250px" src="desarrollador-web.png"> <br>
+<img width="30%" src="desarrollador-web2.png"> <br>
 
 
  👀 I’m interested in Front-End Development <br>
