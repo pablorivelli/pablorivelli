@@ -5,8 +5,8 @@
 <img width="30%" src="desarrollador-web2.png"> <br>
 
 
- 👀 I’m interested in Front-End Development <br>
- 🌱 I’m currently learning web development <br>
+ 👀 I’m interested in Full-Stack Development <br>
+ 🌱 I’m currently learning Front-End Development <br>
  💞️ I’m looking to collaborate on open source projects <br>
  🏠 I'm working exclusively Home Office <br>
  📫 How to reach me: pablodrivelli@gmail.com <br>
